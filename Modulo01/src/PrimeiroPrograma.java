@@ -12,4 +12,4 @@ public class PrimeiroPrograma {
     System.out.printf("Valor de valor(int):%d\n", valor);
     System.out.printf("Valor de x (double);%2.2\n", x);
     }
-} 
+}

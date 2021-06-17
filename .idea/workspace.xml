@@ -2,7 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4221fed-9383-4462-839c-25a6c29b639d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Modulo01/src/PrimeiroPrograma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo01/src/ClassScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo01/src/CriandoNumerosAleatorios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo01/src/CriandoNumerosAleatoriosFlutuantes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo01/src/CriandoNumerosAleatoriosV2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Modulo01/src/CriandoNumerosAleatoriosV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Modulo01/src/PrimeiroPrograma.java" beforeDir="false" afterPath="$PROJECT_DIR$/Modulo01/src/PrimeiroPrograma.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +37,37 @@
     <property name="jdk.selected.JAVA_MODULE" value="16" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
-    <configuration name="PrimeiroPrograma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="PrimeiroPrograma" />
+  <component name="RunManager" selected="Application.ClassScanner">
+    <configuration name="ClassScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassScanner" />
+      <module name="Modulo01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriandoNumerosAleatorios" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CriandoNumerosAleatorios" />
+      <module name="Modulo01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriandoNumerosAleatoriosFlutuantes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CriandoNumerosAleatoriosFlutuantes" />
+      <module name="Modulo01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriandoNumerosAleatoriosV2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CriandoNumerosAleatoriosV2" />
+      <module name="Modulo01" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CriandoNumerosAleatoriosV3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="CriandoNumerosAleatoriosV3" />
       <module name="Modulo01" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -41,7 +75,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PrimeiroPrograma" />
+        <item itemvalue="Application.ClassScanner" />
+        <item itemvalue="Application.CriandoNumerosAleatoriosFlutuantes" />
+        <item itemvalue="Application.CriandoNumerosAleatoriosV3" />
+        <item itemvalue="Application.CriandoNumerosAleatoriosV2" />
+        <item itemvalue="Application.CriandoNumerosAleatorios" />
       </list>
     </recent_temporary>
   </component>
@@ -66,5 +104,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
